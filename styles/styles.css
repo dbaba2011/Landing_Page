@@ -1,0 +1,34 @@
+/* styles.css */
+
+/* Style the features section */
+#features {
+    padding: 40px;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+/* Style individual features */
+.feature {
+    margin: 20px;
+    display: inline-block;
+    text-align: left;
+    max-width: 300px;
+}
+
+/* Style feature images */
+.feature img {
+    max-width: 100%;
+}
+
+/* Style feature headings */
+.feature h3 {
+    font-size: 1.5rem;
+    margin: 10px 0;
+}
+
+/* Style feature descriptions */
+.feature p {
+    font-size: 1rem;
+    color: #333;
+}
+
